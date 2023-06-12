@@ -3,11 +3,7 @@
   <a href="https://docs.docker.com/" target="blank"><img src="https://devtalles.com/images/angular.png" width="200" alt="Angular Logo" /></a>
 </p>
 
-# Angular de cero a experto
-
-Descargar esta hoja de atajos:
-[Guías de atajos - Angular ](https://devtalles.com/files/angular-cheat-sheet.pdf?signals)
-
+# INSTALACIÓN NECESARIA PARA UTILIZAR ANGULAR Y SUS DERIVADOS NECESARIOS
 
 1. [Node JS](https://nodejs.org/es/)
 
