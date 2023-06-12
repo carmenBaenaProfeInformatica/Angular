@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://docs.docker.com/" target="blank"><img src="https://devtalles.com/images/angular.png" width="200" alt="Angular Logo" /></a>
 </p>
-
+<p align="center">
 # INSTALACIÓN NECESARIA PARA UTILIZAR ANGULAR Y SUS DERIVADOS NECESARIOS
-
+</p>
 1. [Node JS](https://nodejs.org/es/)
 
 2. [VSCode - Visual Studio Code](https://code.visualstudio.com/)
